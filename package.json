@@ -37,7 +37,9 @@
     "zeronet-zite": "~0.0.2"
   },
   "directories": {
-    "lib": "lib"
+    "test": "test",
+    "src": "src",
+    "lib": "src"
   },
   "devDependencies": {
     "aegir": "^12.2.0"
