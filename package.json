@@ -43,5 +43,8 @@
   },
   "devDependencies": {
     "aegir": "^12.2.0"
-  }
+  },
+  "contributors": [
+    "mkg20001 <mkg20001@gmail.com>"
+  ]
 }
