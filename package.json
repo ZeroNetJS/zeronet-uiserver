@@ -32,12 +32,14 @@
   },
   "homepage": "https://github.com/ZeroNetJS/zeronet-js#readme",
   "dependencies": {
-    "express": "^4.16.2",
-    "zeronet-common": "file:../zeronet-common",
-    "zeronet-zite": "file:../zeronet-zite"
+    "express": "~4.16.2",
+    "zeronet-common": "~0.0.2",
+    "zeronet-zite": "~0.0.2"
   },
   "directories": {
     "lib": "lib"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "aegir": "^12.2.0"
+  }
 }

@@ -1,7 +1,7 @@
 "use strict"
 
 const express = require("express")
-const verify = require("zeronet-common/lib/verify")
+const verify = require("zeronet-common/src/verify")
 const Zite = require("zeronet-zite")
 
 function URLParser(url) {
