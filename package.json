@@ -32,9 +32,9 @@
   },
   "homepage": "https://github.com/ZeroNetJS/zeronet-uiserver#readme",
   "dependencies": {
-    "express": "~4.16.2",
-    "zeronet-common": "~0.0.2",
-    "zeronet-zite": "~0.0.2"
+    "express": "^4.16.2",
+    "zeronet-common": "0.0.2",
+    "zeronet-zite": "0.0.2"
   },
   "directories": {
     "test": "test",
