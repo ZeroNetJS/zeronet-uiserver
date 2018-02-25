@@ -33,8 +33,8 @@
   "homepage": "https://github.com/ZeroNetJS/zeronet-uiserver#readme",
   "dependencies": {
     "express": "^4.16.2",
-    "zeronet-common": "0.0.2",
-    "zeronet-zite": "0.0.2"
+    "zeronet-common": "~0.3.0",
+    "zeronet-zite": "0.0.6"
   },
   "directories": {
     "test": "test",
@@ -42,7 +42,7 @@
     "lib": "src"
   },
   "devDependencies": {
-    "aegir": "^12.2.0"
+    "aegir": "^13.0.5"
   },
   "contributors": [
     "mkg20001 <mkg20001@gmail.com>"
