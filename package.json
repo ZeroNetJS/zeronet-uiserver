@@ -34,7 +34,7 @@
   "dependencies": {
     "express": "^4.16.2",
     "zeronet-common": "~0.3.0",
-    "zeronet-zite": "0.0.6"
+    "zeronet-zite": "0.0.7"
   },
   "directories": {
     "test": "test",
